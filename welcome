@@ -1,4 +1,4 @@
 function welcome(){
-console.log('Hello world')
+console.info('Hello world')
 }
 welcome()
