@@ -1,4 +1,5 @@
 function welcome(){
 console.info('Hello world')
+console.log('commit in github directly')
 }
 welcome()
