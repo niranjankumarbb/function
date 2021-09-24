@@ -5,5 +5,4 @@ console.info('Hello world')
    console.log('edited in branch3 branch')
 console.log('second commit in github directly in master branch')
 }
- welcome()
 welcome()
