@@ -6,3 +6,4 @@ console.info('Hello world')
 console.log('second commit in github directly in master branch')
 }
  welcome()
+welcome()
