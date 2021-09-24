@@ -1,9 +1,9 @@
  
 function welcome(){ 
-console.info('Hello world')
-console.log('... ') 
-console.log('extra.... ')
- console.log('this is branch3 , edited directly in github')
-}
- welcome()
+console.info('Hello world') 
+console.log('commit in github directly') 
+console.log('edited in branch3 branch')
+console.log('this is master branch, edited in master branch only')
+ }
+welcome()
  
